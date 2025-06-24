@@ -14,7 +14,7 @@ def utc_now():
 class Category(Base):
     __tablename__ = "categories"
     
-    category_id = Column(Integer, primary_key=True, index=True)
+    id = Column(Integer, primary_key=True, index=True)
     name = Column(String(100), nullable=False, index=True)
     parent_id = Column(Integer, ForeignKey('categories.id'), nullable=False)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
