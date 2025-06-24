@@ -1,0 +1,41 @@
+2025-06-24 16:19:36,959 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:19:36,959 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:19:36,959 - INFO - Scheduler started
+2025-06-24 16:20:34,499 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:20:34,505 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:20:34,505 - INFO - Scheduler started
+2025-06-24 16:20:48,169 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:20:48,169 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:20:48,200 - INFO - Scheduler started
+2025-06-24 16:21:36,935 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:21:36,952 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:21:36,953 - INFO - Scheduler started
+2025-06-24 16:23:28,797 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:23:28,797 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:23:28,804 - INFO - Scheduler started
+2025-06-24 16:25:05,358 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:25:05,358 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:25:05,358 - INFO - Scheduler started
+2025-06-24 16:29:04,157 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:29:04,157 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:29:04,165 - INFO - Scheduler started
+2025-06-24 16:33:41,409 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:33:41,409 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:33:41,409 - INFO - Scheduler started
+2025-06-24 16:33:53,475 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:33:53,480 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:33:53,483 - INFO - Scheduler started
+2025-06-24 16:34:49,558 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:34:49,558 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:34:49,558 - INFO - Scheduler started
+2025-06-24 16:35:01,336 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:35:01,338 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:35:01,338 - INFO - Scheduler started
+2025-06-24 16:35:58,652 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:35:58,661 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:35:58,661 - INFO - Scheduler started
+2025-06-24 16:36:45,111 - INFO - Scheduler has been shut down
+2025-06-24 16:41:48,684 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:41:48,684 - INFO - Added job "scheduled_data_generation" to job store "default"
+2025-06-24 16:41:48,684 - INFO - Scheduler started
+2025-06-24 16:42:56,203 - INFO - Scheduler has been shut down
